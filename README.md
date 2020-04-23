@@ -2,6 +2,9 @@ pyspeechkit
 ===
 Library for working with a range of technologies for speech recognition and synthesis from Yandex (SpeechKit).
 
+![PyPI](https://img.shields.io/pypi/v/pyspeechkit)
+[![Downloads](https://pepy.tech/badge/pyspeechkit)](https://pepy.tech/project/pyspeechkit)
+
 Installation
 ---
 ``` shell
