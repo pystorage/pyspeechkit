@@ -1,4 +1,4 @@
-pyspeechkit
+pyspeechkit ![Twitter Follow](https://img.shields.io/twitter/follow/thePystorage?label=pystorage&style=social)
 ===
 Library for working with a range of technologies for speech recognition and synthesis from Yandex (SpeechKit).
 
