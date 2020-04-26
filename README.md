@@ -4,6 +4,7 @@ Library for working with a range of technologies for speech recognition and synt
 
 ![PyPI](https://img.shields.io/pypi/v/pyspeechkit)
 [![Downloads](https://pepy.tech/badge/pyspeechkit)](https://pepy.tech/project/pyspeechkit)
+![GitHub](https://img.shields.io/github/license/pystorage/pyspeechkit)
 
 Installation
 ---
